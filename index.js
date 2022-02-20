@@ -22,10 +22,21 @@ const questions = () => {
       message: "Description of the project:",
     },
     {
-      type: "checkbox",
-      name: "languages",
-      message: "Languages: (Check all that apply)",
-      choices: ["JavaScript", "HTML", "CSS", "ES6", "jQuery", "Bootstrap", "Node"],
+      type: "list",
+      name: "language1",
+      message: "Made with:",
+      choices: ["HTML", "JavaScript", "CSS", "jQuery", "Node", "ES6"],
+    },
+    {
+      type: "list",
+      name: "language2",
+      message: "Made with:",
+      choices: ["HTML", "JavaScript", "CSS", "jQuery", "Node", "ES6"],
+    },
+    {
+      type: "input",
+      name: "language3",
+      message: "Made with:",
     },
     {
       type: "input",

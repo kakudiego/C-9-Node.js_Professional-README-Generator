@@ -2,10 +2,15 @@
   
   # C-9-Node.js_Professional-README-Generator 
 
-  ![badge](https://img.shields.io/badge/license-MIT-darkred)
+  ![badge](https://img.shields.io/badge/license-MIT-orange)
+  ![badge](https://img.shields.io/badge/Made%20with-Node-blue)
+  ![badge](https://img.shields.io/badge/Made%20with-JavaScript-green)
+  ![badge](https://img.shields.io/badge/Made%20with-ES6-yellow)
 
   ## Languages
-    JavaScript,ES6,Node
+    Node
+    JavaScript
+    ES6
   
   ## Description
     can quickly create a professional README for a new project
@@ -20,19 +25,19 @@
 
   ## Installation
   
-  Packages required to run this program are: Ensure that your application includes the require dependacies, by typing the commnd in your integrated terminal "npm install inquirer".
+  Packages required to run this program are: clone/copy/download repo > open terminal > run the app
   
   ## Usage
-  Examples of how to use this program: none
+  Examples of how to use this program: unlimited
 
-  ## License
-  MIT
+  ## License:
+  This application is covered under the MIT license. 
 
   ## Contributors
-  none
+  google
 
   ## Tests
-  To test, run the following command: Run “node [fileName].js”
+  To test, run the following command: node index
 
   ## Contact
   
