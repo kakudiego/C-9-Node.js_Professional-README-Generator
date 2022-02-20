@@ -40,7 +40,7 @@ const questions = () => {
     {
       type: "input",
       name: "usage",
-      message: "Project usage information:",
+      message: "Project usage:",
     },
     {
       type: "list",

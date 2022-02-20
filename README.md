@@ -1,11 +1,14 @@
 
-  # readmegen 
+  
+  # C-9-Node.js_Professional-README-Generator 
+
+  ![badge](https://img.shields.io/badge/license-MIT-darkred)
 
   ## Languages
     JavaScript,ES6,Node
   
   ## Description
-    gen readme
+    can quickly create a professional README for a new project
 
   ## Table of Contents
   - [Installation](#installation)
@@ -17,19 +20,19 @@
 
   ## Installation
   
-  Packages required to run this program are: run index
+  Packages required to run this program are: Ensure that your application includes the require dependacies, by typing the commnd in your integrated terminal "npm install inquirer".
   
   ## Usage
-  Examples of how to use this program: create readme
+  Examples of how to use this program: none
 
   ## License
   MIT
 
   ## Contributors
-  me
+  none
 
   ## Tests
-  To test, run the following command: test
+  To test, run the following command: Run “node [fileName].js”
 
   ## Contact
   
@@ -37,6 +40,6 @@
   
 ![Profile Image](https://github.com/kakudiego.png?size=50)
   
-View the project in GitHub at: kakudiego/readmegen
+View the project in GitHub at: https://github.com/kakudiego/C-9-Node.js_Professional-README-Generator
   
 If you have any questions, contact the author directly at diegokaku@gmail.com.
