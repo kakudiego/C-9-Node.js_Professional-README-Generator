@@ -26,6 +26,7 @@
 
   ## License:
   This application is covered under the MIT license.
+  
   [![badge](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/licenses/MIT)
 
   ## Contributors
