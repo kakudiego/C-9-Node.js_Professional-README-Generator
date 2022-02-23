@@ -6,7 +6,7 @@ function generateMarkdown(data) {
   
   # ${data.title} 
 
-  ![badge](https://img.shields.io/badge/license-${data.license}-orange)
+  [![badge](https://img.shields.io/badge/license-${data.license}-orange)](https://opensource.org/licenses/${data.license})
   ![badge](https://img.shields.io/badge/Made%20with-${data.language1}-blue)
   ![badge](https://img.shields.io/badge/Made%20with-${data.language2}-green)
   ![badge](https://img.shields.io/badge/Made%20with-${data.language3}-yellow)
@@ -25,7 +25,7 @@ function generateMarkdown(data) {
   - [License](#license)
   - [Tests](#tests)
   - [Contributors](#contributors)
-  - [Details](#details)
+  - [Contact](#contact)
 
   ## Installation
   

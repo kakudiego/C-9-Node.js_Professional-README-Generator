@@ -53,13 +53,13 @@ const questions = () => {
     {
       type: 'list',
       name: 'license',
-      message: 'What kind of license would you like to have?',
-      choices: ['MIT', 'APACHE 2.0', 'GPL v3', 'BSD 3', 'None'],
+      message: 'What kind of license would you like to have:',
+      choices: ['MIT', 'APACHE_2.0', 'GPLv3', 'BSD_3'],
     },
     {
       type: 'input',
       name: 'contributor',
-      message: 'List out all contributors:',
+      message: 'How to contribute:',
     },
     {
       type: 'input',

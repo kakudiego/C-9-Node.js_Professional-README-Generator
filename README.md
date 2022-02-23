@@ -1,50 +1,55 @@
+# C-9-Node.js_Professional-README-Generator
 
-  
-  # C-9-Node.js_Professional-README-Generator 
+[![badge](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/licenses/MIT)
+![badge](https://img.shields.io/badge/Made%20with-Node-blue)
+![badge](https://img.shields.io/badge/Made%20with-JavaScript-green)
+![badge](https://img.shields.io/badge/Made%20with-google-yellow)
 
-  ![badge](https://img.shields.io/badge/license-MIT-orange)
-  ![badge](https://img.shields.io/badge/Made%20with-JavaScript-blue)
-  ![badge](https://img.shields.io/badge/Made%20with-Node-green)
-  ![badge](https://img.shields.io/badge/Made%20with-ES6-yellow)
+## Languages
 
-  ## Languages
-    JavaScript
     Node
-    ES6
-  
-  ## Description
-    quickly and easily generate a README file by using a command-line application
+    JavaScript
+    google
 
-  ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Tests](#tests)
-  - [Contributors](#contributors)
-  - [Details](#details)
+## Description
 
-  ## Installation
-  
-  Packages required to run this program are: clone/copy/download repo > open terminal > run the app
-  
-  ## Usage
-  Examples of how to use this program: multiples
+    Simple and quick command-line application created to generate a README.md file.
 
-  ## License:
-  This application is covered under the MIT license. 
+## Table of Contents
 
-  ## Contributors
-  Google
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Tests](#tests)
+- [Contributors](#contributors)
+- [Contact](#contact)
 
-  ## Tests
-  To test, run the following command: node index
+## Installation
 
-  ## Contact
-  
-![Badge](https://img.shields.io/badge/Github-kakudiego-4cbbb9) 
-  
+Packages required to run this program are: clone/copy/download repo > open terminal > run the app
+
+## Usage
+
+Examples of how to use this program: Generate README.md file
+
+## License:
+
+This application is covered under the MIT license.
+
+## Contributors
+
+see contact below
+
+## Tests
+
+To test, run the following command: node index.js
+
+## Contact
+
+![Badge](https://img.shields.io/badge/Github-kakudiego-4cbbb9)
+
 ![Profile Image](https://github.com/kakudiego.png?size=50)
-  
+
 View the project in GitHub at: https://github.com/kakudiego/C-9-Node.js_Professional-README-Generator
-  
+
 If you have any questions, contact the author directly at diegokaku@gmail.com.
