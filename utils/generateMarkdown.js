@@ -10,11 +10,6 @@ function generateMarkdown(data) {
   ![badge](https://img.shields.io/badge/Made%20with-${data.language1}-blue)
   ![badge](https://img.shields.io/badge/Made%20with-${data.language2}-green)
   ![badge](https://img.shields.io/badge/Made%20with-${data.language3}-yellow)
-
-  ## Languages
-    ${data.language1}
-    ${data.language2}
-    ${data.language3}
   
   ## Description
     ${data.description}
@@ -28,14 +23,14 @@ function generateMarkdown(data) {
   - [Contact](#contact)
 
   ## Installation
-  
-  Packages required to run this program are: ${data.installation}
+  ${data.installation}
   
   ## Usage
-  Examples of how to use this program: ${data.usage}
+  ${data.usage}
 
   ## License:
-  This application is covered under the ${data.license} license. 
+  This application is covered under the ${data.license} license.
+  [![badge](https://img.shields.io/badge/license-${data.license}-orange)](https://opensource.org/licenses/${data.license})
 
   ## Contributors
   ${data.contributor}
