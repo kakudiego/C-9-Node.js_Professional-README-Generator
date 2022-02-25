@@ -30,6 +30,7 @@ function generateMarkdown(data) {
 
   ## License:
   This application is covered under the ${data.license} license.
+
   [![badge](https://img.shields.io/badge/license-${data.license}-orange)](https://opensource.org/licenses/${data.license})
 
   ## Contributors
@@ -39,10 +40,10 @@ function generateMarkdown(data) {
   To test, run the following command: ${data.tests}
 
   ## Contact
-  \n![Badge](${gitHub}) 
+  \n[![Badge](${gitHub})](https://github.com/${data.username}) 
   \n![Profile Image](${avatar})
-  \nView the project in GitHub at: ${data.link}
-  \nIf you have any questions, contact the author directly at ${data.email}.`;
+  \nProject in GitHub: ${data.link}
+  \nIf you have any questions, contact me at ${data.email}.`;
 }
 
 module.exports = generateMarkdown;
