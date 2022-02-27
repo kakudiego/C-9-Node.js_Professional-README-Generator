@@ -1,4 +1,6 @@
-The following images demonstrates the application functionality and the an example README.md.
+The following images/video demonstrates the application functionality and below an example README.md.
+
+https://user-images.githubusercontent.com/94471049/155891214-12e20999-fef9-4520-b69b-0c466a193676.mp4
 
 #### Command-line questions:
 
